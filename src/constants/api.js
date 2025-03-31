@@ -1,1 +1,1 @@
-export const API_URL = "http://localhost:8000"; // Ensure backend is running on this port
+export const API_URL = "https://portfolio-uscf.onrender.com"; // Ensure backend is running on this port
