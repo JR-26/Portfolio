@@ -8,14 +8,14 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 
 const certificates = [
-  { id: 1, title: "Certificate 1", image: "src/assets/achievements/certificate1.jpg" },
-  { id: 2, title: "Certificate 2", image: "src/assets/achievements/certificate2.png" },
-  { id: 3, title: "Certificate 3", image: "src/assets/achievements/certificate3.png" },
-  { id: 4, title: "Certificate 4", image: "src/assets/achievements/certificate4.png" },
-  { id: 5, title: "Certificate 5", image: "src/assets/achievements/certificate5.jpg" },
-  { id: 6, title: "Certificate 6", image: "src/assets/achievements/certificate6.jpg" },
-  { id: 7, title: "Certificate 7", image: "src/assets/achievements/certificate7.jpg" },
-  { id: 8, title: "Certificate 8", image: "src/assets/achievements/certificate8.jpg" },
+  { id: 1, title: "Certificate 1", image: "/achievements/certificate1.jpg" },
+  { id: 2, title: "Certificate 2", image: "/achievements/certificate2.png" },
+  { id: 3, title: "Certificate 3", image: "/achievements/certificate3.png" },
+  { id: 4, title: "Certificate 4", image: "/achievements/certificate4.png" },
+  { id: 5, title: "Certificate 5", image: "/achievements/certificate5.jpg" },
+  { id: 6, title: "Certificate 6", image: "/achievements/certificate6.jpg" },
+  { id: 7, title: "Certificate 7", image: "/achievements/certificate7.jpg" },
+  { id: 8, title: "Certificate 8", image: "/achievements/certificate8.jpg" },
 ];
 
 const Certificates = () => {
